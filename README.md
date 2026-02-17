@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Ahoj, já jsem Jaroslav Klein
 
-<!--
-**jarousek86-ux/jarousek86-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Budoucí Front-End Developer  
+👨‍👩‍👧‍👦 Rodinný muž | Fotograf | Neslyšící komunita  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O mně
+
+Jsem začínající IT developer z České republiky.  
+Momentálně se učím:
+
+- HTML
+- CSS
+- JavaScript
+- GitHub
+
+Můj cíl je změnit kariéru z fyzické práce na IT a stát se junior front-end developerem.
+
+---
+
+## 💻 Moje projekty
+
+### ⭐ Neslyšící Muži – komunitní web
+👉 https://jarousek86-ux.github.io/neslysicimuzi/
+
+Web pro komunitu neslyšících mužů:
+- informace
+- akce
+- podpora komunity
+
+---
+
+## 🛠️ Technologie
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+
+---
+
+## 📈 Aktuální cíl
+
+- získat první IT zkušenost
+- rozvíjet projekty
+- pracovat jako junior developer
+
+---
+
+## 🌍 Kontakt
+
+📍 Czech Republic
