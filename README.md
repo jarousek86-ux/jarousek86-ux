@@ -1,53 +1,33 @@
-# 👋 Ahoj, já jsem Jaroslav Klein
+# Ahoj, jsem Jaroslav Klein
 
-🎯 Budoucí Front-End Developer  
-👨‍👩‍👧‍👦 Rodinný muž | Fotograf | Neslyšící komunita  
+Tvořím komunitní weby v HTML, CSS a JavaScriptu. Rozvíjím se ve front-endu a přístupnosti a hledám první juniorní příležitost. Jsem také fotograf z České republiky.
 
----
+## Projekty
 
-## 🚀 O mně
+### [Neslyšící muži – komunitní web](https://github.com/jarousek86-ux/neslysicimuzi)
 
-Jsem začínající IT developer z České republiky.  
-Momentálně se učím:
+Web pro komunitu neslyšících mužů v ČR: informace o komunitě, aktuality, festivaly, workshopy, fotografie a videa.
 
-- HTML
-- CSS
-- JavaScript
-- GitHub
+**Technologie:** HTML, CSS, JavaScript · **Publikování:** GitHub Pages
 
-Můj cíl je změnit kariéru z fyzické práce na IT a stát se junior front-end developerem.
+[Otevřít web](https://jarousek86-ux.github.io/neslysicimuzi/) · [Prohlédnout kód a dokumentaci](https://github.com/jarousek86-ux/neslysicimuzi)
 
----
+### [Videohovor pro neslyšící – prototyp](https://github.com/jarousek86-ux/videohovor-neslysici)
 
-## 💻 Moje projekty
+Rozpracovaný projekt videohovoru pro dvě osoby s textovým chatem a vizuálním upozorněním na zprávy.
 
-### ⭐ Neslyšící Muži – komunitní web
-👉 https://jarousek86-ux.github.io/neslysicimuzi/
+**Technologie:** HTML, CSS, JavaScript, PeerJS / WebRTC
 
-Web pro komunitu neslyšících mužů:
-- informace
-- akce
-- podpora komunity
+[Prohlédnout kód, návod a omezení](https://github.com/jarousek86-ux/videohovor-neslysici)
 
----
+## Co rozvíjím
 
-## 🛠️ Technologie
+- HTML, CSS a JavaScript na vlastních projektech.
+- Responzivní rozhraní a přístupnost webů.
+- Práci s Gitem, GitHubem a srozumitelnou dokumentací.
 
-- HTML
-- CSS
-- JavaScript
-- GitHub Pages
+## Portfolio
 
----
+[Fotografické portfolio](https://jaroslavkleinphotography.netlify.app/)
 
-## 📈 Aktuální cíl
-
-- získat první IT zkušenost
-- rozvíjet projekty
-- pracovat jako junior developer
-
----
-
-## 🌍 Kontakt
-
-📍 Czech Republic
+Mým cílem je získat první zkušenost na juniorní front-end pozici a dál vytvářet užitečné weby pro skutečné lidi.
