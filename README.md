@@ -18,7 +18,7 @@ Rozpracovaný projekt videohovoru pro dvě osoby s textovým chatem a vizuální
 
 **Technologie:** HTML, CSS, JavaScript, PeerJS / WebRTC
 
-[Prohlédnout kód, návod a omezení](https://github.com/jarousek86-ux/videohovor-neslysici)
+[Vyzkoušet online](https://jarousek86-ux.github.io/videohovor-neslysici/) · [Prohlédnout kód, návod a omezení](https://github.com/jarousek86-ux/videohovor-neslysici)
 
 ## Co rozvíjím
 
@@ -28,6 +28,6 @@ Rozpracovaný projekt videohovoru pro dvě osoby s textovým chatem a vizuální
 
 ## Portfolio
 
-[Fotografické portfolio](https://jaroslavkleinphotography.netlify.app/)
+[Fotografické portfolio – jaroslavklein.cz](https://jaroslavklein.cz)
 
 Mým cílem je získat první zkušenost na juniorní front-end pozici a dál vytvářet užitečné weby pro skutečné lidi.
